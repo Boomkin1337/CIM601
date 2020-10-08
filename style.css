@@ -1,0 +1,19 @@
+.airplane{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-image: url(airplane.png);
+    bottom: 0px;
+}
+
+.weather{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-image: url(weather.png);
+    bottom: 0px;
+}
+
+body{
+    font-family: 'Architects Daughter', cursive;
+}
